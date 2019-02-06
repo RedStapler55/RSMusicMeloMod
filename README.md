@@ -10,7 +10,7 @@ Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Bl
  
  Version:   1.0
  
- Released:  2019-02-05
+ Released:  2019-02-06
  
  KSP:       All versions supported by Soundtrack Editor
  
