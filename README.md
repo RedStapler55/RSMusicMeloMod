@@ -59,7 +59,7 @@ Uninstallation:
 
 Version History:
 
-1.0 (2019-02-05) !!!!!!!!!!!!
+1.0 (2019-02-06) !!!!!!!!!!!!
 - Initial release
 
 
