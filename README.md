@@ -7,12 +7,15 @@
 Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Bliss for KSP   
  
  Author:    Red Stapler
+ 
  Version:   1.0
+ 
  Released:  2019-02-05
  
  KSP:       All versions supported by Soundtrack Editor
  
    Thread:    http://forum.kerbalspaceprogram.com/threads/122158 !!!!!!!!!!!!!
+   
    Source:    https://github.com/!!!!!!!!!!!!!!!
    
    License:   Releases, archives, playlist(s): All Rights Reserved - GNU v3 https://www.gnu.org/licenses/gpl-3.0.html
