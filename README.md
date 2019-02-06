@@ -1,5 +1,8 @@
 # RSMusicMod
 
+
+
+
 ==============================================================
 Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Bliss for KSP
 ==============================================================
@@ -13,7 +16,6 @@ Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Bl
    License:   Releases, archives, playlist(s): All Rights Reserved - GNU v3 https://www.gnu.org/licenses/gpl-3.0.html
    
 ==============================================================
-
 Description: 
 
 RSMMM adds several stockalike music tracks by Kevin MacLeod and ambient sounds from freesound.org in order to further enhance and add a bit of groovy grooves to your KSP experience. All tracks are instrumental, some are whimsical, some are loungy...all approved by the Kerbin Instrumental Sound Society (aka KISS - not to be confused with the Earthling band). ;)
@@ -23,7 +25,6 @@ Disco, Blues, Reggae/Dub, Funk, Jazz, R&B, Soul, World, Classic Guitar, Latin/Br
 Please see Licenses/RS Music Licenses.txt included with this mod for a full listing of included tracks.
 
 ==============================================================
-
 Installation:
 
 1. You need to have Soundtrack Editor already installed in your root KSP folder as per instructions for that awesome mod.
@@ -32,19 +33,16 @@ Installation:
 4. Launch KSP and enjoy the new instrumental goodness!
 
 ==============================================================
-
 Adding custom music files (per instructions from Soundtrack Editor):
 
 Drop any new .wav, .ogg or .mp3 files you want to use into the Music folder, next to KSP.exe. These will be available to use in Soundtrack Editor playlists. You can create as many sub folders here as you want to organize the tracks.
 
 ==============================================================
-
 Opening Soundtrack Editor (per instructions from Soundtrack Editor):
 
 Start up KSP and go to the KSC or flight menu. Click on the music speaker icon in the application launcher to open the Soundtrack Editor.
 
 ==============================================================
-
 Uninstallation:
 
 1. Delete RS Mod License.txt and RS Music Licenses.txt from the Licenses folder.
@@ -53,7 +51,6 @@ Uninstallation:
 4. Delete RS Readme-Instructions.txt in the KSP root folder.
 
 ==============================================================
-
 Version History:
 
 1.0 (2019-02-05) !!!!!!!!!!!!
