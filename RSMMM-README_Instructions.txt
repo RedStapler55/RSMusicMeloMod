@@ -43,7 +43,7 @@ Uninstallation:
 1. Delete RSMMM-Licenses.txt from the Licenses folder.
 2. Delete the RSMusic folder from the Music folder.
 3. Delete playlist.cfg from the Playlists folder (and rename your original playlist to playlist.cfg...basically the reverse of Installation step #3 above). 
-4. Delete RS Readme-Instructions.txt in the KSP root folder.
+4. Delete RSMMM-Readme_Instructions.txt in the KSP root folder.
 
 ==============================================================
 Version History:
