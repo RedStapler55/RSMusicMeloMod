@@ -2,11 +2,11 @@
 Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Tracks for KSP
 ==============================================================
  Author:    Red Stapler
- Version:   1.0
- Released:  2019-02-08
+ Version:   1.1
+ Released:  2019-02-11
  KSP:       All versions supported by Soundtrack Editor
  
-   Thread:    TBD
+   Thread:    https://forum.kerbalspaceprogram.com/index.php?/topic/182046-16x-red-staplers-music-melomania-mod-v10-2019-02-08/
    Source:    https://github.com/RedStapler55/RSMusicMeloMod
    License:   Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 
    	      (located in Licenses/RSMMM-Licenses.txt)
@@ -49,8 +49,17 @@ Uninstallation:
 ==============================================================
 Version History:
 
-v1.0 (2019-02-07)
+v1.0 (2019-02-08)
 - Initial release
+
+v1.1 (2019-02-11)
+- Updated Readme_Instructions file.txt (added mod thread url)
+- Updated playlist.cfg for better scene/situation alignment
+	o Removed 3 tracks from Research Center
+	o Removed 2 tracks from Mission Control
+	o Removed 1 track from VAB/SPH
+	o Added 1/removed 1 track from Space
+	
 
 
 
