@@ -6,7 +6,7 @@ Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Tr
  Released:  2019-02-08
  KSP:       All versions supported by Soundtrack Editor
  
-   Thread:    TBD
+   Thread:    https://forum.kerbalspaceprogram.com/index.php?/topic/182046-16x-red-staplers-music-melomania-mod-v10-2019-02-08/
    Source:    https://github.com/RedStapler55/RSMusicMeloMod
    License:   Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 
    	      (located in Licenses/RSMMM-Licenses.txt)
