@@ -2,11 +2,11 @@
 Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Tracks for KSP
 ==============================================================
  Author:    Red Stapler
- Version:   1.1
- Released:  2019-02-11
+ Version:   2.0
+ Released:  2019-03-12
  KSP:       All versions supported by Soundtrack Editor
  
-   Thread:    https://forum.kerbalspaceprogram.com/index.php?/topic/182046-16x-red-staplers-music-melomania-mod-v10-2019-02-08/
+   Thread:    https://forum.kerbalspaceprogram.com/index.php?/topic/182046-16x-red-staplers-music-melomania-mod-v20-2019-03-12/
    Source:    https://github.com/RedStapler55/RSMusicMeloMod
    License:   Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/ 
    	      (located in Licenses/RSMMM-Licenses.txt)
@@ -14,9 +14,9 @@ Red Stapler's Music Melomania Mod (RSMMM) - Stockalike Instrumental & Ambient Tr
 ==============================================================
 Description: 
 
-RSMMM is an addon mod that includes several stockalike music tracks by Kevin MacLeod (creator of tracks used in stock KSP) and ambient sounds from freesound.org in order to further enhance and add a bit of groovy grooves to your Kerbal Space Program experience. All tracks are instrumental, some are whimsical, some are loungy...all approved by the Kerbin Instrumental Sound Society (aka KISS - not to be confused with the Earthling band).
+RSMMM is a mod/add-on to Soundtrack Editor that adds stockalike music tracks by Kevin MacLeod (stock KSP music) and ambient sounds in order to further enhance and add a bit of groove to your Kerbal Space Program experience. All tracks are instrumental, some are whimsical, some are loungy...all approved by the Kerbin Instrumental Sound Society (KISS).
    
-Blues, Reggae/Dub, Funk, Jazz, Disco, R&B, Soul, World, Classic Guitar, Latin/Brazilian, Mellow Rock, Loungy Stand up Bass Types, Groovy Space Rock, Futuristic Modern Spacey Stuff, Chilling in Space Ambiances, 1960s Star Trek TV Series Sound-alikes, and a splash of Austin Powers-ish cut scene music to keep your Kerbals (or you) from going daft on long missions.
+Reggae/Dub, Funk, Jazz, Disco, World, Classic Guitar, Latin/Brazilian, Blues, Mellow Rock, Loungy Stand up Bass Types, Groovy Space Rock, Futuristic Modern Spacey Stuff, Chilling in Space Ambiances, 1960s Star Trek TV Series sound-alikes, and a splash of Austin Powers-ish cutscene music to keep your Kerbals (or you) from going daft on long missions.
 
 Please see Licenses/RSMMM-Licenses.txt included with this mod for a full listing of included tracks.
 
@@ -24,10 +24,11 @@ Please see Licenses/RSMMM-Licenses.txt included with this mod for a full listing
 Installation:
 
 1. You need to have Soundtrack Editor already installed in your root KSP folder as per instructions for that awesome mod.
-2. Extract the entire contents of this zip to the KSP root folder, merging the Licenses, Music, and Playlists folders with the existing folders. PLEASE NOTE: This music add-on mod will not overwrite anything in the Music folder unless you have installed the contained music and/or sound files previously.  A listing of all music/sounds included in this mod can be found in Licenses/RSMMM-Licenses.txt.
-3. Open the Playlists folder, make a backup/rename your current playlists.cfg file and rename RS playlist.cfg to playlist.cfg.
+2. Extract the entire contents of this zip to the KSP root folder, merging the Licenses, Music, and Playlists folders with the existing folders. PLEASE NOTE: This music add-on mod will not overwrite anything in the Music folder unless you have installed an earlier version of this mod or the contained music/sound files previously.  A listing of all music/sounds included in this mod can be found in Licenses/RSMMM-Licenses.txt.
+3. Open the Playlists folder, make a backup/rename your current playlists.cfg file and rename RS playlist.cfg or RSSpecial playlists.cfg* to playlist.cfg.
+	* RSSpecial playlists.cfg (the way RSMMM should be played) is a 'Read Only' file which contains 3 additional playlist scenes for when a vesselState = Dead. There is a minor bug in Soundtrack Editor that changes 'vesselState' to 'vesselSituation' in the playlist when you save changes via the in game editor causing these 3 to not work correctly the next time you load up KSP (the 'Dead' state reverts to 'Any' so music plays at the wrong times). Thus I made RSSpecial playlists.cfg Read Only to get around this issue between game sessions.  Feel free to manually edit this file but remember to make it Read Only again when done or you will get musical 'surprises' in the flight scenes. ;) 
 4. Launch KSP and enjoy the new instrumental and ambient bliss!
-
+	
 ==============================================================
 Adding custom music files (per instructions from Soundtrack Editor):
 
@@ -49,8 +50,23 @@ Uninstallation:
 ==============================================================
 Version History:
 
-v1.0 (2019-02-08)
-- Initial release
+v2.0 (2019-3-12)
+- New: 42 Music, 37 Ambient and 5 Special tracks
+- 8 New Playlists
+	o Added Space Center Ambience Morning playlist
+	o Added Space Center Ambience Evening playlist
+	o Added Pre-Launch Morning playlist
+	o Added Pre-Launch Evening playlist
+	o Added Splashed playlist
+	o Added DeadDay playlist (RSSpecial playlist.cfg only)
+	o Added DayDeadLate playlist (RSSpecial playlist.cfg only)
+	o Added DeadNight playlist (RSSpecial playlist.cfg only)
+- Cleaned up the Not Used folder
+	o Removed 3 files from v1.1
+	o Added 2 new sample files 
+	o Changed 'anthousai-roosters' to 'day-roosters' and placed in Ambient folder
+- Created a Special folder (mostly for organizing RSSpecial playlists.cfg tracks)
+- Updated a few playlists for better scene/situation alignment
 
 v1.1 (2019-02-11)
 - Updated Readme_Instructions file.txt (added mod thread url)
@@ -59,6 +75,11 @@ v1.1 (2019-02-11)
 	o Removed 2 tracks from Mission Control
 	o Removed 1 track from VAB/SPH
 	o Added 1/removed 1 track from Space
+
+v1.0 (2019-02-08)
+- Initial release
+
+
 	
 
 
